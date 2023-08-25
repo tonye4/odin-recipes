@@ -1,0 +1,40 @@
+body
+{
+    background-color: FFEAAE;
+}
+
+.recipePic
+{
+    height: auto;
+    width: 300px;
+    border: 3px solid #0A0903
+}
+
+#bigTitle
+{
+    font-family: 'Helvetica Neue', Roboto, sans-serif;
+    font-weight: 1000;
+    color: #FF0000;
+}
+
+.recipes
+{
+    font-family: 'Helvetica Neue', Roboto, sans-serif;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+#banhXeo
+{
+    color: #0A0903;
+}
+
+#scRoll
+{
+    color: #0A0903;
+}
+
+#pho
+{
+    color: #0A0903;
+}
