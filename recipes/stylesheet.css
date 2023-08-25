@@ -1,0 +1,50 @@
+body
+{
+    background-color: #F6F7EB
+}
+
+#titleHeader
+{
+    font-family: 'Helvetica Neue', Roboto, sans-serif;
+    font-weight: 1000;
+    color: #2D7DD2;
+    text-align: center;
+}
+
+#scRollTitle
+{
+    font-family: 'Helvetica Neue', Roboto, sans-serif;
+    font-weight: 1000;
+    color: #EEB902;
+    text-align: center;
+}
+
+#phoTitle
+{
+    font-family: 'Helvetica Neue', Roboto, sans-serif;
+    font-weight: 1000;
+    color: #97CC04;
+    text-align: center;
+}
+
+.epicPics
+{
+    height: auto;
+    width: 300px;
+    border: 3px solid #0A0903
+}
+
+.subHeaders
+{
+    font-family: 'Helvetica Neue', Roboto, sans-serif;
+    font-weight: 700;
+    color: #F45D01;
+}
+
+.smolText
+{
+    font-family: 'Helvetica Neue', Roboto, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    
+}
